@@ -16,6 +16,6 @@ Layout Halaman Produk merupakan aplikasi Flutter sederhana yang dirancang untuk 
 •	Card, Container, dan Chip untuk penataan visual konten produk.
 Aplikasi ini cocok digunakan sebagai referensi belajar Flutter, khususnya dalam membangun layout yang rapi, terstruktur, dan responsif dengan praktik terbaik dalam penggunaan widget layout dan theming.
 
-## Screenshot Aplikasi
+# Screenshot Aplikasi
 
 ![Screenshot Aplikasi](images/screen_shots.png)
